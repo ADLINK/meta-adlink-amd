@@ -21,8 +21,7 @@
 
 <br>
 
-### how to flash Wic image to your storage
-* [Boot from USB drive](https://github.com/ADLINK/meta-adlink-amd/wiki/02.-How-to-install-Yocto-Image-to-USB-Drive)
+
 
 <br> 
 
