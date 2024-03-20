@@ -1,7 +1,10 @@
-<img src="https://www.linaro.org/assets/images/projects/yocto-project.png" width="200" align="right">
 
-<br>
+# Kirkstone
 
+- Kernel version: 5.15
+- Released year: 2022
+- Kernel support by Adlink(continuing).
+- Manifest of the Yocto BSP is [here](https://github.com/ADLINK/adlink-manifest/tree/amd-yocto-kirkstone).
 ### Kirkstone Branch 
 
 
@@ -17,7 +20,7 @@
 <br>
 
 ### How to build Yocto Image
-* see [the documentation](https://github.com/ADLINK/meta-adlink-amd/wiki/01.-Build-Yocto-Image) for the more details
+* see [the documentation](https://github.com/ADLINK/meta-adlink-amd/wiki) for the more details
 
 <br>
 
