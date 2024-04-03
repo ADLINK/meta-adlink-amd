@@ -15,7 +15,7 @@ You can follow the same steps to build your own customized BSP based on your int
 
 # 3. Adlink Supported Configuration/Patches
 
-Configuration for the Intel-x86-based products for the Adlink dev kit will be found [here](https://github.com/ADLINK/meta-adlink-amd/tree/kirkstone/recipes-kernel/linux-yocto).
+Configuration for the AMD-based products for the Adlink dev kit will be found [here](https://github.com/ADLINK/meta-adlink-amd/tree/kirkstone/recipes-kernel/linux-yocto).
 This Configuration is based on kernel 5.15.x version
 
 
