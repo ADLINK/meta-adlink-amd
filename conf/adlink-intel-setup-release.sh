@@ -43,7 +43,7 @@ if [ -z "$CONF" ]; then
   echo "Error: CONF variable not defined, please define CONF=adlink or mainline for appending adlink or mainline specific settings."
   return 1
 else
-  if [ ! -d $PWD/meta-adlink-x86-64bit/conf/$CONF-conf ]; then
+  if [ ! -d $PWD/meta-adlink-amd/conf/$CONF-conf ]; then
     echo "Error: $PWD/meta-adlink-amd/conf/$CONF-conf directory not found."
     return 1
   fi
