@@ -1,3 +1,5 @@
+ROOTFS_POSTPROCESS_COMMAND += "fix_grub_for_initrd_serial"
+
 fix_grub_for_initrd_serial () {
     GRUBCFG="${IMAGE_ROOTFS}/boot/EFI/BOOT/grub.cfg"
  
