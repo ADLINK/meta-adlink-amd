@@ -22,6 +22,7 @@
 | **Module Name**                                              |
 | :----------------------------------------------------------- |
 | Express-VR7 ([More Details](https://www.adlinktech.com/products/computer_on_modules/comexpresstype7/express-vr7?lang=en))<BR> |
+| cExpress-R8 ([More Details](https://www.adlinktech.com/products/computer_on_modules/comexpresstype6compact/cexpress-r8?lang=en))<BR> |
 
 ## 3. Documentation
 
