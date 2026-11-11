@@ -33,12 +33,12 @@ IMAGE_INSTALL:append = " pulseaudio pulseaudio-server alsa-plugins pipewire wire
 IMAGE_INSTALL:append = " alsa-ucm-conf "
 
 
-PACKAGECONFIG:append:pn-mesa = " gallium r600"
+PACKAGECONFIG:append:pn-mesa = " gallium gallium-llvm r600 vulkan"
  
 PACKAGECONFIG:append:pn-libdrm = " radeon"
  
 DISTRO_FEATURES:append = " opengl"
  
-IMAGE_INSTALL:append = " mesa libdrm"
+IMAGE_INSTALL:append = " mesa libdrm linux-firmware-amdgpu"
  
 IMAGE_INSTALL:append = " matchbox-wm matchbox-desktop"
