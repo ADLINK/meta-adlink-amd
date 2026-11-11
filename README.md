@@ -7,6 +7,7 @@ You can follow the same steps to build your own customized BSP based on your int
 | Product                         |                    Hardware Documentation                    |
 | :------------------------------ | :----------------------------------------------------------: |
 | COM Express® Basic Size Type 7  | [Click_here](https://www.adlinktech.com/en/Computer_on_Modules_COM_Express_Type7) |
+| COM Express Type 6 Compact size |[Click_here](https://www.adlinktech.com/products/computer_on_modules/comexpresstype6compact/cexpress-r8) |
 
 # 2. Available Branches
 
